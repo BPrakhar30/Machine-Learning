@@ -34,7 +34,9 @@ This course provides an introduction to the fundamental methods and algorithms a
 
 ## Prerequisites:
 ‐ Familiarity with the basic linear algebra.
+
 ‐ Familiarity with the basic probability theory.
+
 ‐ Basic computer programming skills and scientific computing.
 
 
