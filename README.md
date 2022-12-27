@@ -1,9 +1,5 @@
 # Artificial-Intelligence-Machine-Learning-for-Engineers
 
-Instructor: Amir Barati Farimani
-
-## Course Description:
-This course provides an introduction to the fundamental methods and algorithms at the core of modern machine learning. It also covers theoretical foundations as well as essential algorithms and practical techniques for supervised and unsupervised learning.
 
 ## Topics:
 •Introduction to Machine Learning and Supervised Learning
@@ -32,11 +28,6 @@ This course provides an introduction to the fundamental methods and algorithms a
 
 •Reinforcement Learning
 
-## Prerequisites:
-‐ Familiarity with the basic linear algebra.
 
-‐ Familiarity with the basic probability theory.
-
-‐ Basic computer programming skills and scientific computing.
 
 
