@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Machine-Learning-for-Engineers
+# Machine-Learning-for-Engineers
 
 
 ## Topics:
